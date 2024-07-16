@@ -48,6 +48,7 @@ section{
 }
 section > p {
     margin-bottom: 3em;
+    padding: 5px;
 }
 section.normal {
     background-color: white;
