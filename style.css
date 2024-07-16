@@ -66,6 +66,8 @@ section.imagem p {
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
+    width: auto;
+    height: auto;
 }
 #i2 {
     background-image: url(background002.jpg);
